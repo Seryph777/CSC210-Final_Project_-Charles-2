@@ -1,5 +1,6 @@
 body {
-    background-image: linear-gradient(to bottom right, cornflowerblue,cadetblue);
+    background-image: url("../Images/wavy-lines.gif"); 
+    background-color: rgba(0, 255, 227, 1); 
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     width: 85%;
     min-width: 100px;
@@ -25,4 +26,11 @@ li {
 
 q {
     color: darkgoldenrod;
+}
+
+.header_img {
+    background-image: url("../Images/Teal-White-Poly-Back.gif");
+    border-image: 5px;
+    border-color: darkgoldenrod;
+    border-style: groove;
 }
