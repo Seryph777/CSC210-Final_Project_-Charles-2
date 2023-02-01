@@ -2,3 +2,22 @@
     color: darkgoldenrod;
     background-color: cadetblue;
 }
+table.GeneratedTable {
+  width: 100%;
+border-collapse: separate;
+  border-width: 2px;
+  border-color: #00ffe3;
+  border-style: solid;
+  color: #000000;
+}
+
+table.GeneratedTable td, table.GeneratedTable th {
+  border-width: 2px;
+  border-color: #00ffe3;
+  border-style: solid;
+  padding: 3px;
+}
+
+table.GeneratedTable thead {
+  background-color: #00ffe3;
+}
