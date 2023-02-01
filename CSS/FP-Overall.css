@@ -37,3 +37,9 @@ q {
 .interactive {
     cursor: pointer;
 }
+
+.brand_name{
+    color: goldenrod;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: darkgoldenrod;
+}
