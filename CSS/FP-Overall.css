@@ -43,3 +43,6 @@ q {
     -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: darkgoldenrod;
 }
+ul{
+    content: '\U+1F4A2' ; margin-left: -20px; margin-right: 10px;
+}
