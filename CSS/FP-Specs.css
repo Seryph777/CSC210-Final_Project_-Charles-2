@@ -1,4 +1,4 @@
-#table :hover {
+td:hover {
     color: darkgoldenrod;
     background-color: cadetblue;
 }
