@@ -1,5 +1,5 @@
 body {
-    background-image: url("../Images/wavy-lines.gif"); 
+    background-image: url("../Images/BackgroundV2.png"); 
     background-color: rgba(0, 255, 227, 1); 
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     width: 85%;
@@ -33,4 +33,7 @@ q {
     border-image: 5px;
     border-color: darkgoldenrod;
     border-style: groove;
+}
+.interactive {
+    cursor: pointer;
 }
