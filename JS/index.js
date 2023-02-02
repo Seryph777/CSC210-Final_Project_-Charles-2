@@ -1,8 +1,8 @@
 var imageLocation = 1;
 var currentImage = document.getElementById("image_slideshow")
-setInterval(changeImage(imageLocation), 1000)
+setInterval(changeImage, 1000)
 
-function changeImage(imageLocation) {
+function changeImage() {
     switch(imageLocation) {
         case 1:
             currentImage.src = "../Images/copypaste.png"
