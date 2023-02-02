@@ -1,6 +1,7 @@
 td:hover {
     color: darkgoldenrod;
     background-color: cadetblue;
+    cursor: crosshair;
 }
 table.GeneratedTable {
   width: 100%;
@@ -9,6 +10,7 @@ border-collapse: separate;
   border-color: #00ffe3;
   border-style: solid;
   color: #000000;
+  
 }
 
 table.GeneratedTable td, table.GeneratedTable th {
@@ -20,4 +22,8 @@ table.GeneratedTable td, table.GeneratedTable th {
 
 table.GeneratedTable thead {
   background-color: #00ffe3;
+}
+
+.content_type {
+    background-color: goldenrod;
 }
