@@ -46,3 +46,7 @@ q {
 ul{
     content: '\U+1F4A2' ; margin-left: -20px; margin-right: 10px;
 }
+
+#image_slideshow {
+    max-height: 174px;
+}
