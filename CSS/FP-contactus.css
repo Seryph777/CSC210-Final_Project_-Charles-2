@@ -2,7 +2,6 @@ img {
     border: 7px;
     border-color: darkgoldenrod;
     border-style: groove;
-    padding-right: -25%;
-    align-self: auto;
-    
+    text-align: center;
+    margin-left: -15%;
 }
