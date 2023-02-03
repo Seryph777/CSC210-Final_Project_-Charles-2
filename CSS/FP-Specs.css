@@ -7,7 +7,7 @@ table.GeneratedTable {
   width: 100%;
 border-collapse: separate;
   border-width: 2px;
-  border-color: #00ffe3;
+  border-color: darkgoldenrod;
   border-style: solid;
   color: #000000;
   
@@ -15,13 +15,13 @@ border-collapse: separate;
 
 table.GeneratedTable td, table.GeneratedTable th {
   border-width: 2px;
-  border-color: #00ffe3;
+  border-color: darkgoldenrod;
   border-style: solid;
   padding: 3px;
 }
 
 table.GeneratedTable thead {
-  background-color: #00ffe3;
+  background-color: darkgoldenrod;
 }
 
 .content_type {
