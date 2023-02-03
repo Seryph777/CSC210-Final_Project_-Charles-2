@@ -3,7 +3,7 @@ td:hover {
     background-color: cadetblue;
     cursor: crosshair;
 }
-table {
+table * {
   border-color: darkgoldenrod;
 }
 td {

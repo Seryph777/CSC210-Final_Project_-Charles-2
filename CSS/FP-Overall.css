@@ -1,13 +1,13 @@
 body {
     background-image: url("../Images/BackgroundV2.png"); 
     background-color: rgba(0, 255, 227, 1); 
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     width: 85%;
     min-width: 100px;
     max-width: 800px;
     margin: 0 auto;
     padding: 5%,5%,5%,5%;    
     text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .page-title {
