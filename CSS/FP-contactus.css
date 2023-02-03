@@ -3,5 +3,7 @@ img {
     border-color: darkgoldenrod;
     border-style: groove;
     text-align: center;
+}
+#quote_img {
     margin-left: -15%;
 }
