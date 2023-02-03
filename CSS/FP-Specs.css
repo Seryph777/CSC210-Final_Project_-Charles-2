@@ -3,6 +3,15 @@ td:hover {
     background-color: cadetblue;
     cursor: crosshair;
 }
+table {
+  border-color: darkgoldenrod;
+}
+td {
+border-color: darkgoldenrod;
+}
+th {
+border-color: darkgoldenrod;
+}
 table.GeneratedTable {
   width: 100%;
 border-collapse: separate;
